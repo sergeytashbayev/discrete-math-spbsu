@@ -5,4 +5,5 @@ dependencies:
     - version-information
     - graphviz
     - geopandas
+    - nxpd
   - pygraphviz
