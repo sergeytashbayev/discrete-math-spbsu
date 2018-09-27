@@ -5,3 +5,4 @@ dependencies:
     - version-information
     - graphviz
     - geopandas
+  - pygraphviz
