@@ -1,7 +1,6 @@
 dependencies:
   - networkx
   - scipy
-  - pygraphviz
   - pip:
     - version-information
     - graphviz
