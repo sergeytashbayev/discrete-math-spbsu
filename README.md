@@ -41,8 +41,9 @@ special case: k-spectrum of an unknown string, reduction to Eulerian path proble
 5. **Graphs II (October 3, 2018)**
 * Connected components in undirected graphs: lower bound, the heaviest stone problem.
 * Trees: four definitions, their equivalence.
+* Paths: reachability, cuts, properties of shortest paths.
 * Bipartite graphs: 2-coloring, odd cycles, Hall's theorem.
 * Ramsey numbers: R(3,3)=6, general upper bound.
 * Directed acyclic graphs and topological ordering.
-* Strongly connected components in directed graphs: metagraph, 2-satisfiability.
+* Strongly connected components in directed graphs: metagraph/condensation, 2-satisfiability.
 
