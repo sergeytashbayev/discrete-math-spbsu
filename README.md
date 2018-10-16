@@ -48,10 +48,18 @@ special case: k-spectrum of an unknown string, reduction to Eulerian path proble
 * Strongly connected components in directed graphs: metagraph/condensation, 2-satisfiability.
 
 6. **Graphs III (October 10, 2018)**
-* Planar graphs: Euler formula, E<3V-5, every planar graph has a node of degree at most 5, non-planarity of K_{3,3} and K_5 theorems of Kuratowski–Pontryagin and Wagner (without a proof).
+* Planar graphs: Euler formula, E<3V-5, every planar graph has a node of degree at most 5, non-planarity of K_{3,3} and K_5, theorems of Kuratowski–Pontryagin and Wagner (without a proof).
 * Coloring: chromatic number, simple bounds, Brooks theorem (without a proof), Appel–Haken theorem (without a proof), 6-colorability of a planar graph, 3-coloring, 3-recoloring.
 * Cliques and independent sets: Mantel theorem, Turán theorem (without a proof).
 * Vertex cover: relation to independent set, König theorem.
+
+7. **Modular arithmetic (October 17, 2018)**
+* Modular addition and multiplication: associativity, commutativity, distribitivity.
+* Euclid's algorithm: certificate of the greatest common divisor, extended Euclid's algorithm.
+* Diophantine equations: necessary and sufficient condition, finding all solution.
+* Modular division: multiplicative inverse.
+* Chinese remainder theorem.
+* Fermat's little theorem.
 
 ## Tentative Further Plan
 
