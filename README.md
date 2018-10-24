@@ -9,6 +9,11 @@ The interactive notebooks complement live lecture by providing
 visualizations and additional resources, but are not meant to 
 replace the lectures (in particular, contain almost no proofs).
 
+## Materials
+* [Draft of the book by Vyalii, Podolskii, Rubtsov, Shwartz, Shen](http://rubtsov.su/public/hse/2017/DM-HSE-Draft.pdf)
+* [Introduction to Discrete Mathematics for Computer Science Specialization at Coursera](https://www.coursera.org/specializations/discrete-mathematics)
+* [Interactive Puzzles](http://dm.compsciclub.ru/app/list)
+
 ## Program
 
 1. **Induction (September 5, 2018)**
@@ -56,22 +61,27 @@ special case: k-spectrum of an unknown string, reduction to Eulerian path proble
 7. **Modular arithmetic (October 17, 2018)**
 * Modular addition and multiplication: associativity, commutativity, distribitivity.
 * Euclid's algorithm: certificate of the greatest common divisor, extended Euclid's algorithm.
-* Diophantine equations: necessary and sufficient condition, finding all solution.
+* Diophantine equations: necessary and sufficient condition, finding all solutions.
 * Modular division: multiplicative inverse.
 * Chinese remainder theorem.
 * Fermat's little theorem.
 
+8. **RSA cryptosystem (October 24, 2018)**
+* One-time pad.
+* RSA: modular exponentiation, factoring, discrete logarithm.
+* RSA attacks: too few messages, small prime, small difference, insufficient randomness, broadcast attack (the e=3 case).
+* Digital signature.
+
 ## Tentative Further Plan
 
-7. **Modulo arithmetic**
-8. **Sets and logic**
-9. **Functions**
-10. **Relations**
-11. **Cardinalities**
-12. **Ordered sets**
-13. **Discrete probability theory**
-14. **Games**
-15. **Computability**
+* **Sets and logic**
+* **Functions**
+* **Relations**
+* **Cardinalities**
+* **Ordered sets**
+* **Discrete probability theory**
+* **Games**
+* **Computability**
 
 
 
