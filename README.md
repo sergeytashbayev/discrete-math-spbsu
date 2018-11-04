@@ -75,7 +75,7 @@ special case: k-spectrum of an unknown string, reduction to Eulerian path proble
 9. **Sets and logic (November 1, 2018)**
 * Basic set operations: union, intersection, set difference, symmetric difference, complement.
 * Set identities: Venn diagrams, tables.
-* Inclusion-exclusion formula.
+* Inclusion-exclusion formula: combinatorial proof, proof using characteristic functions.
 * Propositional logic: Boolean variables, basic uniry and binary functions.
 
 10. **Logic (November 8, 2018)**
