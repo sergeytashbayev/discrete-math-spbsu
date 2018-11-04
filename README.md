@@ -72,9 +72,20 @@ special case: k-spectrum of an unknown string, reduction to Eulerian path proble
 * RSA attacks: too few messages, small prime, small difference, insufficient randomness, broadcast attack (the e=3 case).
 * Digital signature.
 
+9. **Sets and logic (November 1, 2018)**
+* Basic set operations: union, intersection, set difference, symmetric difference, complement.
+* Set identities: Venn diagrams, tables.
+* Inclusion-exclusion formula.
+* Propositional logic: Boolean variables, basic uniry and binary functions.
+
+10. **Logic (November 8, 2018)**
+* Completeness of {and, or, not}, {and, not}, {or, not}, {and, xor, 1}, {nand}; DNF, CNF, Zhegalkin polynomial.
+* Post theorem.
+* ...
+
+
 ## Tentative Further Plan
 
-* **Sets and logic**
 * **Functions**
 * **Relations**
 * **Cardinalities**
