@@ -89,4 +89,4 @@ special case: k-spectrum of an unknown string, reduction to Eulerian path proble
 
 13. **Ordered sets (November 28, 2018)**
 
-14. **Games (December 05, 2018)**
+14. **Combinatorial Games (December 05, 2018)**
