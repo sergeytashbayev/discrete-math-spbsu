@@ -78,21 +78,15 @@ special case: k-spectrum of an unknown string, reduction to Eulerian path proble
 * Inclusion-exclusion formula: combinatorial proof, proof using characteristic functions.
 * Propositional logic: Boolean variables, basic uniry and binary functions.
 
-10. **Logic (November 8, 2018)**
+10. **Logic, Functions (November 8, 2018)**
 * Completeness of {and, or, not}, {and, not}, {or, not}, {and, xor, 1}, {nand}; DNF, CNF, Zhegalkin polynomial.
 * Post theorem.
-* ...
+* Functions: Cartesian product, injection, surjection, bijection, composition, counting.
 
+11. **Relations (November 14, 2018)**
 
-## Tentative Further Plan
+12. **Cardinalities (November 21, 2018)**
 
-* **Functions**
-* **Relations**
-* **Cardinalities**
-* **Ordered sets**
-* **Discrete probability theory**
-* **Games**
-* **Computability**
+13. **Ordered sets (November 28, 2018)**
 
-
-
+14. **Games (December 05, 2018)**
