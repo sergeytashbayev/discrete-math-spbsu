@@ -81,13 +81,14 @@ special case: k-spectrum of an unknown string, reduction to Eulerian path proble
 10. **Logic, Functions (November 8, 2018)**
 * Completeness of {and, or, not}, {and, not}, {or, not}, {and, xor, 1}, {nand}; DNF, CNF, Zhegalkin polynomial.
 * Post theorem.
+
+11. **Functions and Relations (November 14, 2018)**
 * Functions: image, preimage, Cartesian product, plot, function as a special case of mapping.
 * Injection, surjection, bijection.
 * Bijection between NxN and N, bijection between subsets of [n], binary words of length n.
 * Composition, associativity, inverse function.
 * Number of different injections, surjections, bijections.
-
-11. **Relations (November 14, 2018)**
+...
 
 12. **Cardinalities (November 21, 2018)**
 
