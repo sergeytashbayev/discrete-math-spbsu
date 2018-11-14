@@ -82,7 +82,7 @@ special case: k-spectrum of an unknown string, reduction to Eulerian path proble
 * Completeness of {and, or, not}, {and, not}, {or, not}, {and, xor, 1}, {nand}; DNF, CNF, Zhegalkin polynomial.
 * Post's theorem.
 
-11. **Functions and Relations (November 14, 2018)**
+11. **Functions, Relations, Cardinalities (November 14, 2018)**
 * Functions: image, preimage, Cartesian product, plot, function as a special case of mapping.
 * Injection, surjection, bijection.
 * Bijection between NxN and N, bijection between subsets of [n], binary words of length n.
@@ -90,11 +90,12 @@ special case: k-spectrum of an unknown string, reduction to Eulerian path proble
 * Number of different injections, surjections, bijections.
 * Binary relations: graphs, matrices.
 * Basic properties: symmetry, reflexivity, transitivity. Equivalence relations.
-
-12. **Cardinalities (November 21, 2018)**
 * Equinumerosity: symmetry, reflexivity, transitivity.
 * Examples: natural and even numbers, natural numbers and squares, circle and triangle, closed and semi-open interval.
+
+12. **Cardinalities (November 21, 2018)**
 * Countable sets: union of countable sets is countable; a subset of a countable set is either finite or countable; rationals are countable; any infinite set contains a countable subset; cartesian product of two countable sets is countable.
+* ...
 
 13. **Ordered sets (November 28, 2018)**
 
