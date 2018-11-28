@@ -102,6 +102,15 @@ special case: k-spectrum of an unknown string, reduction to Eulerian path proble
 * Comparing cardinalities, Cantor–Bernstein theorem.
 * Cantor's theorem: no A has the same cardinality as 2^A.
 
-13. **Ordered sets (November 28, 2018)**
+13. **Partially Ordered sets (November 28, 2018)**
+* Partially ordered sets: rexlexivity, antisymmetry, transitivity.
+* Examples: digits, segments, subsets, binary words, divisors.
+* Hasse diagrams.
+* Lexicographic ordering.
+* Total orderings: every two (with the same number of elements) are isomorphic, each contains the minimum and maximum element.
+* Every non-empty subset has a minimal element iff any decreasing chain is finite.
+* Erdős--Szekeres theorem: a sequence of length sr+1 contains either an increasing subsequence of length s+1 or a decreasing subsequence of length r+1.
+* Mirsky theorem: |longest chain|=|min antichain decomposition|.
+* Dilworth theorem: |longest antichain|=|min chain decomposition|.
 
 14. **Combinatorial Games (December 05, 2018)**
