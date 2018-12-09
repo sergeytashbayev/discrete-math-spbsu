@@ -33,7 +33,9 @@ replace the lectures (in particular, contain almost no proofs).
 * Binomial theorem.
 
 3. **Catalan numbers (September 19, 2018)**
-TBW
+* The formula via mirrorings and bad paths.
+* The formula via cyclis shifts.
+* Applications: triangulations, associative computations.
 
 4. **Graphs I (September 26, 2018)**
 * Handshaking lemma, total degree formula.
@@ -114,3 +116,8 @@ special case: k-spectrum of an unknown string, reduction to Eulerian path proble
 * Dilworth theorem: |longest antichain|=|min chain decomposition|.
 
 14. **Combinatorial Games (December 05, 2018)**
+* Warm-up: a few simple games.
+* Winning and losing positions, analyzing backwards.
+* Symmetries: when it is possible to win by repeating the opponent's move.
+* The nim game.
+* The price of a game.
